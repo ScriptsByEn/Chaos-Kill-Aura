@@ -1,3 +1,4 @@
+<p style="Kill Aura Enabled. Kill Aura made by EN">Right</p>
 if shared.settings then return end
 shared.settings = {
    killaura = true,
