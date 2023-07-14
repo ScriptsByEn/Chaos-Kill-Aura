@@ -1,4 +1,3 @@
-(DO NOT COPY THIS FIRST LINE) CHAOS long distance Kill Aura. Made by EN. Discord: en_nn
 if shared.settings then return end
 shared.settings = {
    killaura = true,
